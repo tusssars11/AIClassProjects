@@ -1,0 +1,8 @@
+cat
+act
+tac
+at
+ta
+c
+a
+t

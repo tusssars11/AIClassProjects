@@ -1,0 +1,1 @@
+If you run anagramMain.py from the command line or an IDE, it will ask you for all the inputs you'll need: word/phrase, words to include, words to exclude, and maximum number of words per anagram. The dictionary, as I don't see it being changed often, is hardcoded on line 13.
